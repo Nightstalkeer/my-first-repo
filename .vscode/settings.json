@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.background": "#5f5d5d",
+        "terminal.foreground": "#da8e70",
+    },
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Default Dark+",
+    "code-runner.runInTerminal": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.formatOnSave": true,
+    "workbench.settings.useSplitJSON": true,
+}
