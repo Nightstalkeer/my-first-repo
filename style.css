@@ -51,5 +51,17 @@ h2{
     margin-right: 5%;
     box-shadow: 10px 10px 30px gray;
     padding-left: 20px;
-    border-radius: 5%;
+}
+#learner-experience{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#web-experience{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
